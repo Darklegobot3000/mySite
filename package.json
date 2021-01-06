@@ -1,0 +1,19 @@
+{
+  "name": "mysite",
+  "version": "1.0.0",
+  "description": "A personal website for hosting my stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darklegobot3000/mySite.git"
+  },
+  "author": "Alan Zarza <aez222@lehigh.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darklegobot3000/mySite/issues"
+  },
+  "homepage": "https://github.com/Darklegobot3000/mySite#readme"
+}
