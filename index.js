@@ -1,10 +1,13 @@
+#!/usr/bin/env node
+
 const express = require('express')
 const http = require('http')
 const path = require('path')
+const httpShutdown = require('http-shutdown')
 
 //create server
 const app = express();
-const server = http.createServer(app)
+const server = httpShutdown(http.createServer(app))
 
 //import api routes
 //Load API routes
