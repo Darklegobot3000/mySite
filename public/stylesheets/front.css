@@ -1,0 +1,11 @@
+.front {
+    position: absolute;
+}
+.bottom-center{
+  top: 1em;
+  left: 2em;  
+}
+.top-center{
+    top: 2.5em;
+    left: 1.1em;
+}

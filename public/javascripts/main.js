@@ -5,5 +5,5 @@ window.onload = function(){
           message: 'Hello Vue!'
         }
       })
-    
+    app.message = 'hi'
 }
