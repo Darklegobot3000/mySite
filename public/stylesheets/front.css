@@ -9,3 +9,16 @@
     top: 2.5em;
     left: 1.1em;
 }
+#aboutMe{
+  margin-top: 5em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5em;
+  width: 80%;
+}
+#contact{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5em;
+  width: 80%;
+}
